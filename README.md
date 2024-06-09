@@ -1,0 +1,2 @@
+# tripv6server
+基于ddnsgo与tiny的泰拉瑞亚原版服务器启动程序
